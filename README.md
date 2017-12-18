@@ -2,6 +2,8 @@
 
 SurviveJS writing guidelines.
 
+✅ Linted rules.
+
 ## Chapters
 
 Chapters should be structured like this:
@@ -34,6 +36,10 @@ If some additional information is in some other book, refer there using a Markdo
 
 To keep the writing closer to the reader, it's fine to use words like “we” or “I” and “you”. This way the text feels more personal. Use “we” or “I” to refer to the authors or the author and “you” to refer to the reader.
 
+## Links
+
+Prefer an official site, then an [npm](https://www.npmjs.com/) package page.
+
 ## Title Capitalization ✅
 
 [AP](https://en.wikipedia.org/wiki/AP_Stylebook)/[APA](https://en.wikipedia.org/wiki/APA_style) style:
@@ -42,6 +48,3 @@ To keep the writing closer to the reader, it's fine to use words like “we” o
 * Always capitalize the last word, even if it’s a stopword.
 * Lowercase these words: _a an and at but by for in nor of on or so the to up yet_.
 
----
-
-✅ Linted rules.
